@@ -24,6 +24,9 @@ jobs:
             dist/github-snake-mocha.svg?color_snake=#cba6f7&color_dots=#1e1e2e,#45475a,#7f849c,#89b4fa,#cba6f7
             dist/github-snake-latte.svg?color_snake=#8839ef&color_dots=#eff1f5,#bcc0cc,#8c8fa1,#1e66f5,#8839ef
 
+      - name: inject # prefix into css hex values (snk strips it)
+        run: sed -i -E 's/(--c[se]?[0-9]*:)([0-9a-fA-F]{6})/\1#\2/g' dist/*.svg
+
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
