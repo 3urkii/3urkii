@@ -2,7 +2,10 @@
 <p align="center"><code>~$</code> engineer · tinkerer · rice-r</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF79C6&center=true&vCenter=true&width=640&height=44&lines=%2F%2F+whoami+%E2%86%92+burkii;%2F%2F+arch+%2B+hyprland;%2F%2F+go+%C2%B7+typescript+%C2%B7+shell;%2F%2F+terminal+%3E+everything" alt="typing" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=F5C2E7&center=true&vCenter=true&width=640&height=44&lines=%2F%2F+whoami+%E2%86%92+burkii;%2F%2F+arch+%2B+hyprland;%2F%2F+go+%C2%B7+typescript+%C2%B7+shell;%2F%2F+terminal+%3E+everything" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=EA76CB&center=true&vCenter=true&width=640&height=44&lines=%2F%2F+whoami+%E2%86%92+burkii;%2F%2F+arch+%2B+hyprland;%2F%2F+go+%C2%B7+typescript+%C2%B7+shell;%2F%2F+terminal+%3E+everything" alt="typing" />
+  </picture>
 </p>
 
 ## // about
@@ -13,18 +16,18 @@
 
 ## // stack
 
-![Go](https://img.shields.io/badge/go-282A36?style=flat-square&logo=go&logoColor=8BE9FD&labelColor=282A36)
-![TypeScript](https://img.shields.io/badge/typescript-282A36?style=flat-square&logo=typescript&logoColor=8BE9FD&labelColor=282A36)
-![Python](https://img.shields.io/badge/python-282A36?style=flat-square&logo=python&logoColor=50FA7B&labelColor=282A36)
-![React](https://img.shields.io/badge/react-282A36?style=flat-square&logo=react&logoColor=8BE9FD&labelColor=282A36)
-![Vite](https://img.shields.io/badge/vite-282A36?style=flat-square&logo=vite&logoColor=FF79C6&labelColor=282A36)
-![Bash](https://img.shields.io/badge/bash-282A36?style=flat-square&logo=gnubash&logoColor=50FA7B&labelColor=282A36)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/go-1E1E2E?style=flat-square&logo=go&logoColor=89DCEB&labelColor=1E1E2E"><img src="https://img.shields.io/badge/go-EFF1F5?style=flat-square&logo=go&logoColor=1E66F5&labelColor=EFF1F5" alt="Go"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/typescript-1E1E2E?style=flat-square&logo=typescript&logoColor=89DCEB&labelColor=1E1E2E"><img src="https://img.shields.io/badge/typescript-EFF1F5?style=flat-square&logo=typescript&logoColor=1E66F5&labelColor=EFF1F5" alt="TypeScript"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/python-1E1E2E?style=flat-square&logo=python&logoColor=A6E3A1&labelColor=1E1E2E"><img src="https://img.shields.io/badge/python-EFF1F5?style=flat-square&logo=python&logoColor=40A02B&labelColor=EFF1F5" alt="Python"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/react-1E1E2E?style=flat-square&logo=react&logoColor=89DCEB&labelColor=1E1E2E"><img src="https://img.shields.io/badge/react-EFF1F5?style=flat-square&logo=react&logoColor=1E66F5&labelColor=EFF1F5" alt="React"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/vite-1E1E2E?style=flat-square&logo=vite&logoColor=F5C2E7&labelColor=1E1E2E"><img src="https://img.shields.io/badge/vite-EFF1F5?style=flat-square&logo=vite&logoColor=EA76CB&labelColor=EFF1F5" alt="Vite"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/bash-1E1E2E?style=flat-square&logo=gnubash&logoColor=A6E3A1&labelColor=1E1E2E"><img src="https://img.shields.io/badge/bash-EFF1F5?style=flat-square&logo=gnubash&logoColor=40A02B&labelColor=EFF1F5" alt="Bash"></picture>
 
-![Arch Linux](https://img.shields.io/badge/arch%20linux-282A36?style=flat-square&logo=archlinux&logoColor=8BE9FD&labelColor=282A36)
-![Hyprland](https://img.shields.io/badge/hyprland-282A36?style=flat-square&logo=wayland&logoColor=BD93F9&labelColor=282A36)
-![Neovim](https://img.shields.io/badge/neovim-282A36?style=flat-square&logo=neovim&logoColor=50FA7B&labelColor=282A36)
-![tmux](https://img.shields.io/badge/tmux-282A36?style=flat-square&logo=tmux&logoColor=50FA7B&labelColor=282A36)
-![Docker](https://img.shields.io/badge/docker-282A36?style=flat-square&logo=docker&logoColor=8BE9FD&labelColor=282A36)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/arch%20linux-1E1E2E?style=flat-square&logo=archlinux&logoColor=89DCEB&labelColor=1E1E2E"><img src="https://img.shields.io/badge/arch%20linux-EFF1F5?style=flat-square&logo=archlinux&logoColor=1E66F5&labelColor=EFF1F5" alt="Arch Linux"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/hyprland-1E1E2E?style=flat-square&logo=wayland&logoColor=CBA6F7&labelColor=1E1E2E"><img src="https://img.shields.io/badge/hyprland-EFF1F5?style=flat-square&logo=wayland&logoColor=8839EF&labelColor=EFF1F5" alt="Hyprland"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/neovim-1E1E2E?style=flat-square&logo=neovim&logoColor=A6E3A1&labelColor=1E1E2E"><img src="https://img.shields.io/badge/neovim-EFF1F5?style=flat-square&logo=neovim&logoColor=40A02B&labelColor=EFF1F5" alt="Neovim"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tmux-1E1E2E?style=flat-square&logo=tmux&logoColor=A6E3A1&labelColor=1E1E2E"><img src="https://img.shields.io/badge/tmux-EFF1F5?style=flat-square&logo=tmux&logoColor=40A02B&labelColor=EFF1F5" alt="tmux"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/docker-1E1E2E?style=flat-square&logo=docker&logoColor=89DCEB&labelColor=1E1E2E"><img src="https://img.shields.io/badge/docker-EFF1F5?style=flat-square&logo=docker&logoColor=1E66F5&labelColor=EFF1F5" alt="Docker"></picture>
 
 ## // recent
 
@@ -42,22 +45,19 @@ drwxr-xr-x  cs2surf        # counter-strike surf
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=3urkii&show_icons=true&hide_border=true&bg_color=282A36&title_color=FF79C6&icon_color=BD93F9&text_color=F8F8F2&ring_color=BD93F9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=3urkii&show_icons=true&hide_border=true&bg_color=F8F8F2&title_color=D5008F&icon_color=7B5BD6&text_color=282A36&ring_color=7B5BD6" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=3urkii&show_icons=true&hide_border=true&bg_color=282A36&title_color=FF79C6&icon_color=BD93F9&text_color=F8F8F2&ring_color=BD93F9" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=3urkii&show_icons=true&hide_border=true&theme=catppuccin_mocha" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=3urkii&show_icons=true&hide_border=true&theme=catppuccin_latte" alt="stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=3urkii&layout=compact&hide_border=true&bg_color=282A36&title_color=FF79C6&text_color=F8F8F2&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=3urkii&layout=compact&hide_border=true&bg_color=F8F8F2&title_color=D5008F&text_color=282A36&langs_count=8" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3urkii&layout=compact&hide_border=true&bg_color=282A36&title_color=FF79C6&text_color=F8F8F2&langs_count=8" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=3urkii&layout=compact&hide_border=true&langs_count=8&theme=catppuccin_mocha" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3urkii&layout=compact&hide_border=true&langs_count=8&theme=catppuccin_latte" alt="top langs" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=3urkii&hide_border=true&background=282A36&stroke=44475A&ring=BD93F9&fire=FF79C6&currStreakLabel=FF79C6&sideLabels=6272A4&dates=6272A4&currStreakNum=F8F8F2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=3urkii&hide_border=true&background=F8F8F2&stroke=C7C7C0&ring=7B5BD6&fire=D5008F&currStreakLabel=D5008F&sideLabels=6272A4&dates=6272A4&currStreakNum=282A36" />
-    <img height="165" src="https://streak-stats.demolab.com/?user=3urkii&hide_border=true&background=282A36&stroke=44475A&ring=BD93F9&fire=FF79C6&currStreakLabel=FF79C6&sideLabels=6272A4&dates=6272A4&currStreakNum=F8F8F2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=3urkii&hide_border=true&theme=catppuccin-mocha" />
+    <img height="165" src="https://streak-stats.demolab.com/?user=3urkii&hide_border=true&theme=catppuccin-latte" alt="streak" />
   </picture>
 </p>
 
