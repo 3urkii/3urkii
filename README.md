@@ -1,18 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=3urkii&show_icons=true&hide_border=true&theme=catppuccin_mocha" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=3urkii&show_icons=true&hide_border=true&theme=catppuccin_latte" alt="stats" />
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=3urkii&layout=compact&hide_border=true&langs_count=8&theme=catppuccin_mocha" />
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3urkii&layout=compact&hide_border=true&langs_count=8&theme=catppuccin_latte" alt="top langs" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=3urkii&hide_border=true&theme=catppuccin-mocha" />
-    <img height="165" src="https://streak-stats.demolab.com/?user=3urkii&hide_border=true&theme=catppuccin-latte" alt="streak" />
   </picture>
 </p>
 
