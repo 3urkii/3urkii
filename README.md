@@ -41,12 +41,24 @@ drwxr-xr-x  cs2surf        # counter-strike surf
 ## // stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=3urkii&show_icons=true&theme=dracula&hide_border=true&bg_color=282A36&title_color=FF79C6&icon_color=BD93F9&text_color=F8F8F2&ring_color=BD93F9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3urkii&layout=compact&theme=dracula&hide_border=true&bg_color=282A36&title_color=FF79C6&text_color=F8F8F2&langs_count=8" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=3urkii&show_icons=true&hide_border=true&bg_color=282A36&title_color=FF79C6&icon_color=BD93F9&text_color=F8F8F2&ring_color=BD93F9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=3urkii&show_icons=true&hide_border=true&bg_color=F8F8F2&title_color=D5008F&icon_color=7B5BD6&text_color=282A36&ring_color=7B5BD6" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=3urkii&show_icons=true&hide_border=true&bg_color=282A36&title_color=FF79C6&icon_color=BD93F9&text_color=F8F8F2&ring_color=BD93F9" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=3urkii&layout=compact&hide_border=true&bg_color=282A36&title_color=FF79C6&text_color=F8F8F2&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=3urkii&layout=compact&hide_border=true&bg_color=F8F8F2&title_color=D5008F&text_color=282A36&langs_count=8" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3urkii&layout=compact&hide_border=true&bg_color=282A36&title_color=FF79C6&text_color=F8F8F2&langs_count=8" />
+  </picture>
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=3urkii&theme=dracula&hide_border=true&background=282A36&stroke=44475A&ring=BD93F9&fire=FF79C6&currStreakLabel=FF79C6&sideLabels=6272A4&dates=6272A4" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=3urkii&hide_border=true&background=282A36&stroke=44475A&ring=BD93F9&fire=FF79C6&currStreakLabel=FF79C6&sideLabels=6272A4&dates=6272A4&currStreakNum=F8F8F2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=3urkii&hide_border=true&background=F8F8F2&stroke=C7C7C0&ring=7B5BD6&fire=D5008F&currStreakLabel=D5008F&sideLabels=6272A4&dates=6272A4&currStreakNum=282A36" />
+    <img height="165" src="https://streak-stats.demolab.com/?user=3urkii&hide_border=true&background=282A36&stroke=44475A&ring=BD93F9&fire=FF79C6&currStreakLabel=FF79C6&sideLabels=6272A4&dates=6272A4&currStreakNum=F8F8F2" />
+  </picture>
 </p>
 
 <p align="center">
