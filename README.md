@@ -1,28 +1,15 @@
-<h1 align="center">[ burkii.wtf ]</h1>
-<p align="center"><code>~$</code> self-hosted &amp; gaming</p>
+<h1 align="center">[ burkii ]</h1>
+<p align="center"><code>~$</code> engineer · tinkerer · rice-r</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF79C6&center=true&vCenter=true&width=640&height=44&lines=%2F%2F+whoami+%E2%86%92+burkii;%2F%2F+self-hosted+%26+sovereign;%2F%2F+homelab+%3E+cloud;%2F%2F+arch+%2B+hyprland+%2B+go" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF79C6&center=true&vCenter=true&width=640&height=44&lines=%2F%2F+whoami+%E2%86%92+burkii;%2F%2F+arch+%2B+hyprland;%2F%2F+go+%C2%B7+typescript+%C2%B7+shell;%2F%2F+terminal+%3E+everything" alt="typing" />
 </p>
 
 ## // about
 
-> **burkii** — engineer, tinkerer, homelabber.
+> **burkii** — engineer, tinkerer, perpetual rice-r.
 >
-> running [**burkii.wtf**](https://burkii.wtf) — a small corner of the internet built on the idea that users should own their data and infrastructure. no massive datacenters, just bare metal and matrix invites.
->
-> currently ricing arch + hyprland, writing TUIs in go, and hosting minecraft for friends.
-
-## // services
-
-| service | description | link |
-| --- | --- | --- |
-| **mealie** | self-hosted recipe manager & meal planner | [mealie.burkii.wtf](https://mealie.burkii.wtf) |
-| **matrix** | decentralised, end-to-end encrypted messaging | [matrix.burkii.wtf](https://matrix.burkii.wtf) |
-| **minecraft** | survival server | ping via matrix |
-| **terraria** | hardmode world | ping via matrix |
-
-live status → [**`burkii.status`**](https://github.com/3urkii/homelab-monitoring)
+> currently writing TUIs in go, shipping typescript on the side, and ricing arch + hyprland until it achieves sentience.
 
 ## // stack
 
@@ -38,18 +25,17 @@ live status → [**`burkii.status`**](https://github.com/3urkii/homelab-monitori
 ![Neovim](https://img.shields.io/badge/neovim-282A36?style=flat-square&logo=neovim&logoColor=50FA7B&labelColor=282A36)
 ![tmux](https://img.shields.io/badge/tmux-282A36?style=flat-square&logo=tmux&logoColor=50FA7B&labelColor=282A36)
 ![Docker](https://img.shields.io/badge/docker-282A36?style=flat-square&logo=docker&logoColor=8BE9FD&labelColor=282A36)
-![Matrix](https://img.shields.io/badge/matrix-282A36?style=flat-square&logo=matrix&logoColor=BD93F9&labelColor=282A36)
 
 ## // recent
 
 ```bash
 ~$ ls -lt ~/projects | head -6
-drwxr-xr-x  terminus-tui        # cloud infra visualizer — go TUI
-drwxr-xr-x  homelab-monitoring  # burkii.status dashboard
-drwxr-xr-x  burkiiwtf-website   # the site
-drwxr-xr-x  macdots-tui         # TUI for macdots
-drwxr-xr-x  latiarch            # arch + hyprland config
-drwxr-xr-x  my_hyde             # hyde dev env
+drwxr-xr-x  terminus-tui   # cloud infra visualizer — go TUI
+drwxr-xr-x  macdots-tui    # TUI for macdots
+drwxr-xr-x  macdots        # macOS dotfiles
+drwxr-xr-x  latiarch       # arch + hyprland config
+drwxr-xr-x  my_hyde        # hyde dev env
+drwxr-xr-x  cs2surf        # counter-strike surf
 ```
 
 ## // stats
@@ -64,5 +50,5 @@ drwxr-xr-x  my_hyde             # hyde dev env
 </p>
 
 <p align="center">
-  <sub><code>~$</code> self-hosted with ♥ — ping me on matrix</sub>
+  <sub><code>~$</code> exit 0</sub>
 </p>
